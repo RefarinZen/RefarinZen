@@ -35,7 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RefarinZen&show_icons=true&theme=rose_pine&hide_border=true&bg_color=1A1A1A&title_color=FFB6C1&text_color=FFFFFF" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RefarinZen&layout=compact&theme=rose_pine&hide_border=true&bg_color=1A1A1A&title_color=FFB6C1&text_color=FFFFFF" width="48%">
 </div>
 
 <p align="center">
