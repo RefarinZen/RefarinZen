@@ -3,12 +3,12 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Welcome+to+my+world!+🎀;一只爱社交的库洛米+🦋;大四毕业倒计时...🎓;Keep+Coding+%26+Stay+Cute!+🖤" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=🎀+Welcome+to+my+world!+🎀;Keep+Coding+%26+Stay+Cute!+🖤" alt="Typing SVG" />
 
   <img src="https://media.tenor.com/t79yJ_zZ6W8AAAAi/kuromi-cheers.gif" width="120" />
 </div>
 
-### 🖤 Hey there! 我是 [她的名字] 🦋
+### 🖤 Hey there! 我是 Meow 🦋
 
 **一个在粉色和黑色之间反复横跳的大四女生。**
 
