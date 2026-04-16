@@ -3,7 +3,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=🎀+Welcome+to+my+world!+🎀;Keep+Coding+%26+Stay+Cute!+🖤" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=🎀+Welcome+to+my+world!+🎀;🖤+Keep+Coding+%26+Stay+Cute!+🖤" alt="Typing SVG" />
 
   <img src="https://media.tenor.com/t79yJ_zZ6W8AAAAi/kuromi-cheers.gif" width="120" />
 </div>
